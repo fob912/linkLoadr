@@ -2,7 +2,6 @@
 
 # Library Imports
 import requests
-import json
 import time
 
 # API URLS
