@@ -1,6 +1,9 @@
 # linkLoadr
 Tool to populate a text file with Deezer links
 
+# Disclaimer
+I am not a good programmer/coder. My code is probably terrible and can be done a lot better. Don't make me more depressed than I already am.
+
 # How to Use
 Double click exe. Type artist. It will try to find it. Press y or n if it found it. Do for all artists. Type exit when done. Drink copious amounts of alcohol with every use.
 
