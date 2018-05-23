@@ -46,7 +46,7 @@ while True:
                     else:
                         print("\nYou Bum! Type either y or n!\n")
 
-                if yn=="n":
+                if yn == "n":
                     continue
                     
                 print("\nProcessing Now...\n")
@@ -59,8 +59,7 @@ while True:
                     
         else:
             print("Error: The Artist " + line + " wasn't found on Deezer. Or anything even remotely similar to where it just returned an error. What a bunch of fucking bullshit. \n")
-            time.sleep(0.5)
-            time.sleep(1)
+            time.sleep(1.5)
 
 print("\n\n\n\nAll done! There were a total of " + str(counter) + " Artists processed! \n")
 input("\nPress <Enter> to Close...")
